@@ -30,33 +30,18 @@ MATLAB R2020a
 ```
 ├── Readme.md    // 程序说明
 
-├── 518021910160+孔一鉴.pdf    // 实验报告
-
 ├── Part1    // DCT,IDCT,DFT,IDFT
 │   ├── P_1_1_1_DFT_IDFT.m    // DFT，IDFT的实现代码 （直接运行）                 
 │   ├── P_1_1_2_DCT_IDCT.m     // DCT，IDCT的实现代码（直接运行）                     
-│   ├── test1.jpeg    // 测试图片1——《背影》
-│   ├── test2.jpeg    // 测试图片2——《猫》
-│   ├── Gray1.jpeg    // DFT前使用的灰度图
-│   ├── Gray2.jpeg    // DCT前使用的灰度图
-│   ├── DFT1.jpeg    // DFT变换后的图片
-│   ├── DCT2.jpeg    // DCT变换后的图片
-│   ├── IDFT1.jpeg    // IDFT变换后恢复的图片
-│   └── IDCT2.jpeg    // IDCT变换后恢复的图片
+
 
 ├── Part2    // DCT分块压缩                  
 │   ├── P_1_2_DCTBlocks.m    // DCT分块压缩的实验代码（直接运行）
-│   ├── test1.jpeg    // 测试图片1——《背影》
-│   ├── test2.jpeg    // 测试图片2——《猫》
-│   ├── DCT-21.jpeg    // 保留6条对角线的压缩结果
-│   └── DCT-1.jpeg    // 保留1条对角线的压缩结果
+
 
 ├── Part3    // DFT幅度相位互换                					
 │   ├── P_1_3_DFTInverse.m    // DFT幅度相位变换（直接运行）
-│   ├── test1.jpeg    // 等大测试图片1——《山》
-│   ├── test2.jpeg    // 等大测试图片2——《广场》
-│   ├── Switch-12.jpeg    // 交换相位后的图1
-│   └── Switch-21.jpeg    // 交换相位后的图2
+
 ```
 
 
